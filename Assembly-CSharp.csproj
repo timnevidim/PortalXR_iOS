@@ -585,8 +585,17 @@
     <Reference Include="netstandard">
         <HintPath>/Applications/Unity/Hub/Editor/2020.1.13f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.Management">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Timeline.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARKit">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Subsystem.Registration">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
@@ -594,14 +603,26 @@
     <Reference Include="Unity.ProBuilder">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.ARSubsystems">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARSubsystems.Editor">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.ARFoundation.Editor">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARFoundation">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
@@ -609,8 +630,20 @@
     <Reference Include="Unity.Timeline">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management.Editor">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.SpatialTracking">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
@@ -621,47 +654,14 @@
     <Reference Include="Unity.TextMeshPro">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Subsystem.Registration">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARSubsystems">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARSubsystems.Editor">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARFoundation.Editor">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARFoundation">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARFoundation.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management.Editor">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.ARKit">
-        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARKit.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.XR.ARKit.Editor">
         <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+        <HintPath>/Users/timnevidim/Documents/Учеба/Unity/Архитектура/PortalXR_iOS/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
